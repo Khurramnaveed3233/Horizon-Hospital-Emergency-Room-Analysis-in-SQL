@@ -11,27 +11,27 @@ This project analyzes patient admission data in Horizon Hospital’s Emergency R
 
 The dataset contains the following key columns:
 
-Patient Id
+    Patient Id
 
-Patient Admission Date
+    Patient Admission Date
+ 
+    Patient First Initial
 
-Patient First Initial
+    Patient Last Name
 
-Patient Last Name
+    Patient Gender
 
-Patient Gender
+    Patient Age
 
-Patient Age
+    Patient Race
 
-Patient Race
+    Department Referral
 
-Department Referral
+    Patient Admission Flag
 
-Patient Admission Flag
+    Patient Satisfaction Score
+ 
+    Patient Wait Time
 
-Patient Satisfaction Score
-
-Patient Wait Time
-
-Patients CM (Case Management)
+    Patients CM (Case Management)
 

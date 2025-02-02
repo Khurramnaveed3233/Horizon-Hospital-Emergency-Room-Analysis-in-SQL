@@ -15,8 +15,6 @@ The dataset contains the following key columns:
 
 # SQL Queries & Business Questions
 
-- Basic SQL Questions (1-10)
-
    1️⃣ Retrieve all records from the Horizon_Hospital table.
 
       SELECT * FROM Horizon_Hospital;

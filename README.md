@@ -13,4 +13,4 @@ The dataset contains the following key columns:
 
 ![SCHEMA](https://github.com/user-attachments/assets/2ca2ded4-99b8-40b7-a666-d4ee4148d077)
 
-
+# SQL Queries & Business Questions

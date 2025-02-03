@@ -168,4 +168,11 @@ The dataset contains the following key columns:
     WHERE YEAR(Patient_Admission_Date) >= YEAR(GETDATE()) - 1 
     GROUP BY YEAR(Patient_Admission_Date);
 
+# Insights from SQL Analysis
+
+ - Departments with long wait times need process improvements.
+ - Some departments have low satisfaction scores, requiring feedback collection.
+ - High patient flow departments require better staffing & resource allocation.
+ - Historical data shows seasonal admission spikes, allowing for better planning.
+ - Patient satisfaction is directly linked to wait times, impacting hospital reputation.
 

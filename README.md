@@ -4,10 +4,10 @@ This project analyzes patient admission data in Horizon Hospital’s Emergency R
 
 #  Project Objectives
 
-- Understand Patient Trends: Analyze demographics, admission patterns, and satisfaction levels.
-- Optimize Hospital Efficiency: Identify delays and improve resource allocation.
-- Improve Patient Experience: Reduce long wait times and improve satisfaction scores.
-- Advanced SQL Analytics: Perform ranking, window functions, and complex queries for deeper insights.
+  - Improve Patient Care: Identify areas where patient experience can be enhanced by analyzing satisfaction scores, wait times, and readmission rates.
+  - Optimize Resource Allocation: Understand departmental workload and peak hours to allocate resources more effectively.
+  - Enhance Operational Efficiency: Detect inefficiencies such as long wait times, unusual spikes in admissions, and high referral rates to streamline processes. Support Data-Driven 
+  - Decision Making: Provide stakeholders with actionable insights to guide strategic planning and operational improvements.
 
 The dataset contains the following key columns:
 

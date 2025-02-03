@@ -1,9 +1,6 @@
 # Horizon Hospital Emergency Room Analysis In SQL
 
-
-
-
-
+![DALL·E 2025-02-03 05 03 17 - A professional and visually stunning cover image for a hospital emergency room analysis portfolio project  The image should feature a modern hospital ](https://github.com/user-attachments/assets/4c1a0730-77ad-47c2-b798-4042d150e636)
 
 This project analyzes patient admission data in Horizon Hospital’s Emergency Room (ER) using SQL Server. The goal is to extract insights about patient demographics, wait times, satisfaction scores, and department efficiency to improve hospital operations.
 
